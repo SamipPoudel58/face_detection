@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow&display=swap");
+body {
+  margin: 0;
+  font-family: Barlow, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: -moz-linear-gradient(-86deg, #34569a 0%, #7897d7 100%);
+  background: -webkit-linear-gradient(-86deg, #34569a 0%, #7897d7 100%);
+  background: linear-gradient(-86deg, #34569a 0%, #7897d7 100%);
+  /* background: #005bea;
+  background: -moz-linear-gradient(to right, #005bea 0%, #00c6fb 100%);
+  background: -webkit-linear-gradient(to right, #005bea 0%, #00c6fb 100%);
+  background: linear-gradient(to right, #005bea 0%, #00c6fb 100%); */
+}
+
+button {
+  cursor: pointer;
+  border: 0;
+  box-shadow: none;
+}
